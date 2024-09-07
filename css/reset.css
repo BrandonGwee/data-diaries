@@ -1,0 +1,48 @@
+html {
+    background-color: rgb(174, 241, 255);
+}
+
+.banner {
+    background-color: rgb(68, 74, 250);
+    margin-left: -2%;
+    margin-right: -2%;
+}
+
+.banner h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.banner img {
+    display: block;
+    margin-left: 90%;
+}
+
+.content {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1em;
+}
+
+.content {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 0.1em;
+    padding-bottom: 0.2em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
